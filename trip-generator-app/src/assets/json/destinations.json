@@ -1,0 +1,162 @@
+[
+  {
+    "place": "Bali, Indonesia",
+    "img": "../../assets/bali.jpg",
+    "description": "...",
+    "categories": ["00000", "01000", "02000", "00100", "20000", "21000", "22000", "20100"],
+    "activities": [
+      {
+        "image": "../../assets/uluwatu.jpg",
+        "desc": "Uluwatu Temple"
+      },
+      {
+        "image": "../../assets/monkey.jpg",
+        "desc": "Sacred Monkey Forest Sanctuary"
+      },
+      {
+        "image": "../../assets/beradan.jpg",
+        "desc": "Beradan Temple"
+      }
+    ]
+  },
+  {
+    "place": "Santorini, Greece",
+    "img": "../../assets/santorini.jpg",
+    "description": "...",
+    "categories": ["02001"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  },
+  {
+    "place": "Hakone, Japan",
+    "img": "../../assets/hakone.jpg",
+    "description": "...",
+    "categories": ["00101", "01101", "10101", "11101"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  },
+  {
+    "place": "Safari, Tanzania",
+    "img": "../../assets/safari.jpg",
+    "description": "...",
+    "categories": ["00101", "20101"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  },
+  {
+    "place": "Paris, France",
+    "img": "../../assets/paris.jpg",
+    "description": "...",
+    "categories": ["01000", "01001", "01100", "01101"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  },
+  {
+    "place": "Antalya, Turkey",
+    "img": "../../assets/antalya.jpg",
+    "description": "...",
+    "categories": ["12110", "12010"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  },
+  {
+    "place": "Bran, Romania",
+    "img": "../../assets/bran.jpg",
+    "description": "...",
+    "categories": ["11010", "11110", "21010", "21011"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  },
+  {
+    "place": "Alaska",
+    "img": "../../assets/alaska.jpg",
+    "description": "...",
+    "categories": ["20120", "20020"],
+    "activities": [
+      {
+        "image": "../../assets/couple.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/family.jpg",
+        "desc": "..."
+      },
+      {
+        "image": "../../assets/friends.jpg",
+        "desc": "..."
+      }
+    ]
+  }
+]

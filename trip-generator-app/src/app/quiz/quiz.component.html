@@ -1,0 +1,21 @@
+<form [formGroup]="answersForm" (ngSubmit)="submitForm(answersForm.value)">
+<div class="col-lg-8 col-md-10 mx-auto">
+  <div class="question" *ngFor="let question of questions">
+    <h2>{{question.title}}</h2>
+    <table>
+      <tr>
+        <div class="form-group">
+        <td *ngFor="let answer of question.answers">
+          <label>
+            <input type="radio" formControlName={{question.name}} value={{answer.value}}>
+            <img style="width: 100%; display: block;" src={{answer.image}}>
+            <p>{{answer.text}}</p>
+          </label>
+        </td>
+        </div>
+      </tr>
+    </table>
+  </div>
+  <button type="submit" class="btn btn-success btn-block" [disabled]="!answersForm.valid">Submit</button>
+</div>
+</form>

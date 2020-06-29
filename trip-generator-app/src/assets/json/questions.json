@@ -1,0 +1,97 @@
+[
+  {
+    "name": "0",
+    "title": "Who are you travelling with?",
+    "answers": [
+      {
+        "text": "couple",
+        "image": "../../assets/couple.jpg",
+        "value": "0"
+      },
+      {
+        "text": "family",
+        "image": "../../assets/family.jpg",
+        "value": "1"
+      },
+      {
+        "text": "friends",
+        "image": "../../assets/friends.jpg",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "name": "1",
+    "title": "What is your type of trip?",
+    "answers": [
+      {
+        "text": "nature",
+        "image": "../../assets/wildNature.jpg",
+        "value": "0"
+      },
+      {
+        "text": "sightseeing",
+        "image": "../../assets/museum.jpg",
+        "value": "1"
+      },
+      {
+        "text": "beach",
+        "image": "../../assets/beach.jpg",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "name": "2",
+    "title": "Are you looking for relaxed or active vacation?",
+    "answers": [
+      {
+        "text": "relaxed",
+        "image": "../../assets/relax.jpg",
+        "value": "0"
+      },
+      {
+        "text": "active",
+        "image": "../../assets/active.jpg",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "3",
+    "title": "Are you looking for more popular spots or hidden gems?",
+    "answers": [
+      {
+        "text": "popular",
+        "image": "../../assets/popular.jpg",
+        "value": "0"
+      },
+      {
+        "text": "medium",
+        "image": "../../assets/medium.jpg",
+        "value": "1"
+      },
+      {
+        "text": "hidden",
+        "image": "../../assets/hidden.jpg",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "name": "4",
+    "title": "Party or no party?",
+    "answers": [
+      {
+        "text": "party",
+        "image": "../../assets/party.jpg",
+        "value": "0"
+      },
+      {
+        "text": "no party",
+        "image": "../../assets/no-party.jpg",
+        "value": "1"
+      }
+    ]
+  }
+]
