@@ -13,6 +13,7 @@ import { FilterPipe } from '../pipes/filter.pipe';
 import { DragDropModule } from '@angular/cdk/drag-drop';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HoverDirective } from '../directives/hover.directive';
+import { SaveComponent } from './destinations/save/save.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { HoverDirective } from '../directives/hover.directive';
     DestinationsComponent,
     FilterPipe,
     HoverDirective,
+    SaveComponent,
   ],
   imports: [
     BrowserModule,

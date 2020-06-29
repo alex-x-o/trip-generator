@@ -5,6 +5,7 @@ import { Destinations } from 'src/models/destinations.model';
 import { FilterPipe } from 'src/pipes/filter.pipe';
 import { DataService } from 'src/services/data.service';
 import { Observable } from 'rxjs';
+import { CdkDragEnd, CdkDrag, CdkDragPlaceholder } from '@angular/cdk/drag-drop';
 
 @Component({
   selector: 'app-destinations',
@@ -18,6 +19,7 @@ export class DestinationsComponent implements OnInit {
   filteredDestinations: any;
   destination: any;
   dest: Destinations[] = [];
+  valueFromChild = '';
 
   constructor(private questionsService: QuestionsService,
               private destinationsService: DestinationsService,
@@ -31,6 +33,11 @@ export class DestinationsComponent implements OnInit {
       destinations => this.destinations = destinations,
       error => console.error(error)
     );
+  }
+
+  saveChanges(valueEmitted) {
+    this.valueFromChild = valueEmitted;
+    document.getElementById('dis').hidden = true;
   }
 
 }

@@ -1,7 +1,7 @@
 <div *ngFor="let dest of destinations | filter:(category | async)">
   <img class="image" src={{dest.img}}>
   <h1 class="centered">{{dest.place}}</h1>
-  <div class="example-boundary">
+  <div id="dis" aria-disabled="false" class="example-boundary">
     <div *ngFor="let activity of dest.activities">
       <div class="example-box" cdkDragBoundary=".example-boundary" cdkDrag>
         <img src={{activity.image}}>
@@ -9,4 +9,9 @@
       </div>
     </div>
   </div>
+</div>
+
+<div>
+  {{valueFromChild}}
+  <app-save (buttonClicked)="saveChanges($event)"></app-save>
 </div>
