@@ -16,6 +16,10 @@
       {
         "image": "../../assets/beradan.jpg",
         "desc": "Beradan Temple"
+      },
+      {
+        "image": "../../assets/batur.jpg",
+        "desc": "Mount Batur"
       }
     ]
   },
@@ -26,16 +30,12 @@
     "categories": ["02001"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
-        "desc": "..."
+        "image": "../../assets/akrotiri.jpg",
+        "desc": "Akrotiri"
       },
       {
-        "image": "../../assets/family.jpg",
-        "desc": "..."
-      },
-      {
-        "image": "../../assets/friends.jpg",
-        "desc": "..."
+        "image": "../../assets/red-beach.jpg",
+        "desc": "Red Beach"
       }
     ]
   },
@@ -46,16 +46,16 @@
     "categories": ["00101", "01101", "10101", "11101"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
-        "desc": "..."
+        "image": "../../assets/mount-fuji.jpg",
+        "desc": "Mount Fuji"
       },
       {
-        "image": "../../assets/family.jpg",
-        "desc": "..."
+        "image": "../../assets/lake-ashi.jpg",
+        "desc": "Lake Ashi"
       },
       {
-        "image": "../../assets/friends.jpg",
-        "desc": "..."
+        "image": "../../assets/open-air-museum.jpg",
+        "desc": "Open Air Museum"
       }
     ]
   },
@@ -66,15 +66,15 @@
     "categories": ["00101", "20101"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/family.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/friends.jpg",
+        "image": "...",
         "desc": "..."
       }
     ]
@@ -86,15 +86,15 @@
     "categories": ["01000", "01001", "01100", "01101"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/family.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/friends.jpg",
+        "image": "...",
         "desc": "..."
       }
     ]
@@ -106,15 +106,15 @@
     "categories": ["12110", "12010"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/family.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/friends.jpg",
+        "image": "...",
         "desc": "..."
       }
     ]
@@ -126,15 +126,15 @@
     "categories": ["11010", "11110", "21010", "21011"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/family.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/friends.jpg",
+        "image": "...",
         "desc": "..."
       }
     ]
@@ -146,15 +146,15 @@
     "categories": ["20120", "20020"],
     "activities": [
       {
-        "image": "../../assets/couple.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/family.jpg",
+        "image": "...",
         "desc": "..."
       },
       {
-        "image": "../../assets/friends.jpg",
+        "image": "...",
         "desc": "..."
       }
     ]
