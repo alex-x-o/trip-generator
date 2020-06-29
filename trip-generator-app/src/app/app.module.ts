@@ -12,6 +12,7 @@ import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { FilterPipe } from '../pipes/filter.pipe';
 import { DragDropModule } from '@angular/cdk/drag-drop';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HoverDirective } from '../directives/hover.directive';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     QuizComponent,
     DestinationsComponent,
     FilterPipe,
+    HoverDirective,
   ],
   imports: [
     BrowserModule,

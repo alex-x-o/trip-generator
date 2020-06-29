@@ -22,14 +22,6 @@
   min-height: 600px;
 }
 
-img {
-  opacity: 0.6;
-}
-
-img:hover {
-  opacity: 1.0;
-}
-
 p {
   text-align: center;
   font-size: 20px;
@@ -42,3 +34,11 @@ table {
   border-spacing: 20px 0;
 }
 
+img {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+img.selected {
+  opacity: 1.0;
+}

@@ -8,7 +8,7 @@
         <td *ngFor="let answer of question.answers">
           <label>
             <input type="radio" formControlName={{question.name}} value={{answer.value}}>
-            <img style="width: 100%; display: block;" src={{answer.image}}>
+            <img appHover style="width: 100%; display: block;" src={{answer.image}}>
             <p>{{answer.text}}</p>
           </label>
         </td>
